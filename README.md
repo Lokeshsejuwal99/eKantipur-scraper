@@ -9,7 +9,8 @@ Data is saved in `output.json`.
 
 ## How to Run
 - uv run python scraper.py
-Make sure you have uv installed.
+
+## Make sure you have uv installed.
 
 Install dependencies:
 uv sync
