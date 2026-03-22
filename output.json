@@ -1,0 +1,39 @@
+{
+    "entertainment_news": [
+        {
+            "title": "‘निफ’मा सहभागी हुन नेपाल आउँदै ‘शोले’ निर्देशक",
+            "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/sippi-2232026084423-1000x0.jpg&w=701&h=0",
+            "category": "मनोरञ्जन",
+            "author": "कान्तिपुर संवाददाता"
+        },
+        {
+            "title": "'धुरन्धर : द रिभेन्ज'ले चार दिनमै कमायो पाँच सय करोड",
+            "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/dhurandhar-ranabir-2232026081546-1000x0.jpg&w=701&h=0",
+            "category": "मनोरञ्जन",
+            "author": "कान्तिपुर संवाददाता"
+        },
+        {
+            "title": "'चरणदास चोर'ले छेड्ने प्रश्न -के तिमी वाचामा कटिबद्ध छौ ?",
+            "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/dramacharandashchormandalathetre20260312dsc4404-1332026072101-1000x0.jpg&w=701&h=0",
+            "category": "मनोरञ्जन",
+            "author": "रीना मोक्तान"
+        },
+        {
+            "title": "भक्तपुर फिल्म महोत्सवमा देखाइए २४ फिल्म",
+            "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/65511470512700854084102905307034263224460715n-2132026042246-1000x0.jpg&w=701&h=0",
+            "category": "मनोरञ्जन",
+            "author": "कान्तिपुर संवाददाता"
+        },
+        {
+            "title": "‘निफ’को तयारी अन्तिम चरणमा",
+            "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/niff-2132026104009-1000x0.jpg&w=701&h=0",
+            "category": "मनोरञ्जन",
+            "author": "कान्तिपुर संवाददाता"
+        }
+    ],
+    "cartoon_of_the_day": {
+        "title": "गजब छ बा!",
+        "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2022/third-party/gajab-chha-ba-821203-copy-1732026024923-1000x0.jpg&w=601&h=0",
+        "author": "अविन"
+    }
+}

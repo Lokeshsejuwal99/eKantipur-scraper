@@ -1,0 +1,56 @@
+// First prompt // 
+I am scraping ekantipur.com for entertainment news and the cartoon of the day using Playwright in Python.
+
+Requirements:
+1. For the top 5 entertainment news articles, extract:
+   - title
+   - image_url (handle lazy-loading: data-src, data-original, picture tags, or background-image)
+   - category ("मनोरञ्जन")
+   - author
+
+2. For the cartoon of the day, extract:
+   - title
+   - image_url
+   - author
+   - The cartoon may load dynamically; wait for content if necessary.
+
+3. Output JSON structure:
+{
+  "entertainment_news": [...],
+  "cartoon_of_the_day": {...}
+}
+
+Please write Python scraping functions using Playwright that:
+- Scroll content if needed to trigger lazy-loaded images
+- Use robust selectors for images and text
+- Handle fallback cases (background-image or alternative tags)
+- Keep JSON structure as above
+
+
+// Second prompt // 
+
+Problem 1: 
+All image URLs are coming as null. Most images are lazy-loaded using data-src, data-original, or inside <picture> tags.
+
+Problem 2:
+The cartoon section ("div.cartoon-wrapper") is empty. It may load dynamically via JS.
+
+Please update my scraping functions to:
+1. Extract correct image URLs for entertainment articles (handle lazy-loaded images)
+2. Extract cartoon image, title, and author
+3. Wait for dynamic content if necessary
+4. Keep the JSON structure as before
+
+
+
+// Third prompt // 
+
+My Playwright scraper for ekantipur.com entertainment news is not getting image URLs. 
+Images are lazy-loaded (data-src, data-original) and some are in <picture> tags or as background images in divs. 
+Please update my function to extract images reliably for top 5 articles, scroll if needed, and handle lazy-load or background-image.
+
+
+// Fourth prompt // 
+
+Everything is working fine except cartoon_of_the_day, (title and author) is null. 
+Fix this error, and write meaningful comments on the code. 
