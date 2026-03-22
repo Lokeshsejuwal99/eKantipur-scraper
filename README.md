@@ -5,6 +5,11 @@ This project is a Playwright-based web scraper that extracts:
 - Top 5 entertainment news articles
 - Cartoon of the Day
 
+
+## How to activate virtual environment
+
+- .venv/Scripts/activate
+  
 Data is saved in `output.json`.
 
 ## How to Run
@@ -14,11 +19,6 @@ Data is saved in `output.json`.
 
 Install dependencies:
 uv sync
-
-## How to activate virtual environment
-
-- .venv/Scripts/activate
-
 
 Run the scraper:
 uv run python scraper.py
