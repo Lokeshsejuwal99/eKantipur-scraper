@@ -8,7 +8,7 @@ This project is a Playwright-based web scraper that extracts:
 Data is saved in `output.json`.
 
 ## How to Run
-
+- uv run python scraper.py
 Make sure you have uv installed.
 
 Install dependencies:
